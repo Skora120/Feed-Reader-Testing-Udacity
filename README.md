@@ -1,4 +1,19 @@
-# Project Overview
+# Project: Feed Reader Testing for [Udacity](https://udacity.com)
+
+Page for testing by using [Jasmine](http://jasmine.github.io/2.0/introduction.html).
+
+## How to run?
+
+1. Download zip file from GIT.
+2. Unzip it somewhere on your desktop.
+3. Run `index.html` in browser(Recommended Google Chrome).
+
+## Screen
+![Screen](https://d3higte790sj35.cloudfront.net/images/tj/rw/0fdc30f45eeb146fbcd723a7d298df55.jpeg)
+
+# Original ReadMe
+
+## Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
